@@ -167,7 +167,7 @@ function GitSearch() {
                 </Typography>
               </Stack>
               <Stack alignItems="center">
-                <Typography>Following</Typography>
+                <Typography>Followings</Typography>
                 <Typography variant="h6" sx={{ fontWeight: "bold" }}>
                   {userData.following}
                 </Typography>
