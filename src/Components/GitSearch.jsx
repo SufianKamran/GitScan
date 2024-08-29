@@ -70,7 +70,7 @@ function GitSearch() {
           variant="h4"
           sx={{ fontWeight: "bold" }}
         >
-          GitScanner
+          GitScan
         </Typography>
 
         <Stack
