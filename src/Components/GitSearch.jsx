@@ -70,7 +70,7 @@ function GitSearch() {
           variant="h4"
           sx={{ fontWeight: "bold" }}
         >
-          GitScanner
+          GitScan
         </Typography>
 
         <Stack
@@ -160,7 +160,7 @@ function GitSearch() {
                   {userData.public_repos}
                 </Typography>
               </Stack>
-              <Stack mx={5} alignItems="center">
+              <Stack mx={1} alignItems="center">
                 <Typography>Followers</Typography>
                 <Typography variant="h6" sx={{ fontWeight: "bold" }}>
                   {userData.followers}
